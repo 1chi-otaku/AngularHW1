@@ -1,0 +1,11 @@
+
+.container{
+    padding: 20px 15px 20px 15px;
+    background-color: rgb(49, 49, 49);
+}
+.row h2{
+    color: rgb(255, 232, 22);
+}
+.row p{
+    color: white;
+}

@@ -1,0 +1,10 @@
+.providers-container {
+    display: flex;
+  }
+  .providers-container h3 {
+    flex: 1;
+    margin: 10px; 
+    background-color: #272727;
+    color: yellow;
+    padding: 10px; 
+  }

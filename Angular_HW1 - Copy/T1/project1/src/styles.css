@@ -1,0 +1,5 @@
+
+body {
+    background-color: rgb(27, 27, 27);
+    max-width: 960px; margin: 0 auto; outline: 1px solid red;
+  }
